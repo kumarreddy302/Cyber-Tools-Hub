@@ -5,3 +5,12 @@ Cyber Tools Hub is a CyberSecurity Project devlopeved for young ethical Hackers 
 
 Installation of Tool:
 
+sudo su
+
+git clone https://github.com/kumarreddy302/Cyber-Tools-Hub.git
+
+cd Cyber Tools Hub
+
+python CyberToolsHub.py
+
+Boom!!!!!! Enjoy the Tool.
